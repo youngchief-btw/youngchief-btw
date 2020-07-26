@@ -1,4 +1,13 @@
+![YoungChief Icon](https://youngcdn.tk/youngchief%20btw%20%E3%83%84/%20YoungChief%20-%20460x460.png "YoungChief Icon")
 ### Hi there 👋
+
+I create projects that change the world!
+
+How to reach me:
+  - Discord: [discord.gg/myuyJqH](https://discord.gg/myuyJqH) | This is the easiest way to reach me!
+  - Email (coming soon): [hello@youngchief.tk](mailto:hello@youngchief.tk)
+  
+I run **[youngchief btw ツ Inc.](https://inc.youngchief.tk)**, We make the world (and internet) a better place!
 
 <!--
 **youngchief-btw/youngchief-btw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
