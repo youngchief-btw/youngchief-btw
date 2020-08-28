@@ -4,10 +4,10 @@
 I create projects that change the world!
 
 How to reach me:
-  - Discord: [discord.gg/myuyJqH](https://discord.gg/myuyJqH) | This is the easiest way to reach me!
+  - Discord: [Click Here](https://go.youngchief.tk/?url=Discord/Server) | This is the easiest way to reach me!
   - Email (coming soon): [hello@youngchief.tk](mailto:hello@youngchief.tk)
   
-I run **[youngchief btw ツ Inc.](https://inc.youngchief.tk)**, We make the world (and internet) a better place!
+I am the proud creator of my own company called **[youngchief btw ツ Inc.](https://go.youngchief.tk/?url=https://inc.youngchief.tk)**, We make the world (and internet) a better place!
 
 <!--
 **youngchief-btw/youngchief-btw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
