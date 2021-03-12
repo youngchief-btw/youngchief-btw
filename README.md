@@ -4,7 +4,7 @@
 I create projects that change the world!
 
 📫 How to reach me:
-  - Email (coming soon, [needs funds](https://go.youngchief.tk/?url=https://donate.youngchief.tk)): **[youngchief@youngchief.tk](mailto:youngchief@youngchief.tk)**
+  - Email me at **[youngchief@youngchief.tk](mailto:youngchief@youngchief.tk)**
   
 ⚡ I am the proud creator of my own company called **[youngchief btw ツ Inc.](https://go.youngchief.tk/?url=https://inc.youngchief.tk)**, We make the world (and internet) a better place!
 
