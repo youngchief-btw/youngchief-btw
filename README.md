@@ -5,6 +5,7 @@ I create projects that change the world!
 
 📫 How to reach me:
   - Email me at **[youngchief@youngchief.tk](mailto:youngchief@youngchief.tk)**
+  - Telegram: [@YoungChiefBTW](https://go.youngchief.tk/?url=Telegram/Profile)
   
 ⚡ I am the proud creator of my own company called **[youngchief btw ツ Inc.](https://go.youngchief.tk/?url=https://inc.youngchief.tk)**, We make the world (and internet) a better place!
 
