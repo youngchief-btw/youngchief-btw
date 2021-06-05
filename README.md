@@ -4,8 +4,10 @@
 I create projects that change the world!
 
 📫 How to reach me:
-  - Email: **[youngchief@youngchief.tk](mailto:youngchief@youngchief.tk)**
-  - Telegram: **[@YoungChiefBTW](https://go.youngchief.tk/?url=Telegram/Profile)**
+  - [Email](https://en.wikipedia.org/wiki/Email): [youngchief@youngchief.tk](mailto:youngchief@youngchief.tk)
+  - [Discord](https://discord.com/): [Click Here](https://go.youngchief.tk/?url=Discord/Server)
+  - [Telegram](https://telegram.org/): [@YoungChiefBTW](https://go.youngchief.tk/?url=Telegram/Profile)
+  - [Session](https://getsession.org/): 05be41197decb07c015b8105f93c01593004800f3e1910e18f28dcf075c653500c
   
 ⚡ I am the proud creator of my own company called **[youngchief btw ツ Inc.](https://go.youngchief.tk/?url=https://inc.youngchief.tk)**, We make the world (and internet) a better place!
 
