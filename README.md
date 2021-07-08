@@ -5,7 +5,7 @@ I create projects that change the world!
 
 📫 How to reach me:
   - [Email](https://en.wikipedia.org/wiki/Email): [youngchief@youngchief.tk](mailto:youngchief@youngchief.tk)
-  - [Discord](https://discord.com/): [Click Here](https://go.youngchief.tk/?url=Discord/Server)
+  - [Discord](https://discord.com/): [Server](https://discord.gg/P383jXE), [Profile](https://discord.com/users/683552393253879829)
   - [Telegram](https://telegram.org/): [@YoungChiefBTW](https://go.youngchief.tk/?url=Telegram/Profile)
   - [Session](https://getsession.org/): 05be41197decb07c015b8105f93c01593004800f3e1910e18f28dcf075c653500c
   
