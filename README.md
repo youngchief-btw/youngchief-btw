@@ -1,4 +1,4 @@
-![YoungChief Icon](https://youngcdn.tk/youngchief%20btw%20%E3%83%84/%20YoungChief%20-%20460x460.png "YoungChief Icon")
+![YoungChief Icon](https://avatars.githubusercontent.com/u/33383463?v=4 "YoungChief Icon")
 ### Hi there 👋
 
 I create projects that change the world!
