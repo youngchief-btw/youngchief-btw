@@ -10,6 +10,7 @@ I create projects that change the world!
   - [Session](https://getsession.org/): 05be41197decb07c015b8105f93c01593004800f3e1910e18f28dcf075c653500c
   - [[matrix]](https://matrix.org): [@youngchiefbtw:matrix.org](https://matrix.to/#/@youngchiefbtw:matrix.org)
   - [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat): YoungChiefBTW (on [libera.chat](https://libera.chat/), [OFTC](https://www.oftc.net/), and [Snoonet](https://snoonet.org/))
+  - [XMPP](https://en.wikipedia.org/wiki/XMPP): [youngchief@hmm.st](xmpp:youngchief@hmm.st)
   - [Reddit](https://reddit.com/): [Profile](https://reddit.com/user/YoungChiefBTW), [Sub](https://reddit.com/r/youngchiefbtw)
   
 ⚡ I am the proud creator of my own company called **[youngchief btw ツ Inc.](https://go.youngchief.tk/?url=https://inc.youngchief.tk)**, We make the world (and internet) a better place!
