@@ -3,6 +3,12 @@
 
 My website: https://ycws.vercel.app
 
+![YoungChief's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngchief-btw&count_private=true&show_icons=true&theme=tokyonight)
+
+![YoungChief's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngchief-btw&langs_count=10&count_private=true&show_icons=true&theme=tokyonight&layout=compact)
+
+![YoungChief's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=youngchief&show_icons=true&theme=tokyonight&layout=compact)
+
 <!--
 **youngchief-btw/youngchief-btw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
