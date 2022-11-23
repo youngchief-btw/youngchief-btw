@@ -1,5 +1,4 @@
-![YoungChief Icon](https://avatars.githubusercontent.com/u/33383463?v=4 "YoungChief Icon")
-### Hi there 👋
+![Hi I'm YoungChief](Hello.png "Hi I'm YoungChief")
 
 My website: https://ycws.vercel.app
 
@@ -7,7 +6,7 @@ My website: https://ycws.vercel.app
 
 - Programming languages I know:
 
-![YoungChief's Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,dart,deno,dotnet,elixir,go,graphql,html,java,js,julia,kotlin,lua,md,nodejs,perl,php,py,ruby,rust,swift,ts,wasm?theme=dark) 
+![YoungChief's Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts,wasm,cpp,c,py,go,swift,kotlin,java,bash,php,ruby,rust,lua,cs,dart,deno,dotnet,elixir,graphql,julia,perl?theme=dark)
 
 - Code editors/IDEs I use:
 
@@ -20,6 +19,10 @@ My website: https://ycws.vercel.app
 - Hosting providers I use:
 
 ![YoungChief's Hosting Providers Of Choice](https://skillicons.dev/icons?i=aws,azure,cloudflare,codepen,firebase,gcp,gitlab,heroku,netlify,supabase,vercel,workers&theme=dark)
+
+- Online development enviornments I use: 
+
+glitch,replit,gitpod,codepen,codesandbox
 
 - Other things I use:
 
