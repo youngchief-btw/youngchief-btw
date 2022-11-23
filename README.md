@@ -11,6 +11,8 @@ My website: https://ycws.vercel.app
 
 ---
 
+<details>
+<summary><h3>My Toolbox</h3></summary>
 - Programming languages I know:
 
 ![YoungChief's Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts,wasm,cpp,c,py,go,swift,kotlin,java,bash,php,ruby,rust,lua,cs,dart,deno,dotnet,elixir,graphql,julia,perl?theme=dark)
@@ -34,6 +36,8 @@ My website: https://ycws.vercel.app
 - Other things I use:
 
 ![YoungChief's Thingbox](https://skillicons.dev/icons?i=activitypub,ansible,arduino,aws,azure,blender,bsd,cloudflare,cmake,codepen,discord,bots,docker,elixir,fediverse,firebase,gcp,git,github,githubactions,gitlab,grafana,heroku,instagram,jenkins,kubernetes,linkedin,linux,mastodon,maven,mongodb,mysql,netlify,nginx,postgres,powershell,prometheus,raspberrypi,redis,sqlite,stackoverflow,supabase,twitter,vercel,wordpress,workers&theme=dark)
+
+</details>
 
 ---
 
