@@ -4,7 +4,7 @@ My website: https://ycws.vercel.app
 
 ---
 
-# Blog
+### Blog
 
 <!--START_SECTION:blog-->
 <!--END_SECTION:blog-->
