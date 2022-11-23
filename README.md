@@ -22,7 +22,7 @@ My website: https://ycws.vercel.app
 
 - Online development enviornments I use: 
 
-glitch,replit,gitpod,codepen,codesandbox
+<a href="https://glitch.com/"><img src="https://cdn.youngchief.tk/GlitchLogo_Color.svg" height=25 alt="Glitch"></a> <a href="https://replit.com"><img src="https://cdn.youngchief.tk/Replit-Prompt-Logo-Transparent@2048.png" height=25 alt="Replit"></a>
 
 - Other things I use:
 
