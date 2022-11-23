@@ -11,8 +11,17 @@ My website: https://ycws.vercel.app
 
 ---
 
+![YoungChief's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngchief-btw&count_private=true&show_icons=true&theme=tokyonight)
+
+![YoungChief's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngchief-btw&langs_count=10&count_private=true&show_icons=true&theme=tokyonight&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <details>
-<summary><h3>My Toolbox</h3></summary>
+<summary>My Toolbox</summary>
 - Programming languages I know:
 
 ![YoungChief's Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts,wasm,cpp,c,py,go,swift,kotlin,java,bash,php,ruby,rust,lua,cs,dart,deno,dotnet,elixir,graphql,julia,perl?theme=dark)
@@ -38,12 +47,3 @@ My website: https://ycws.vercel.app
 ![YoungChief's Thingbox](https://skillicons.dev/icons?i=activitypub,ansible,arduino,aws,azure,blender,bsd,cloudflare,cmake,codepen,discord,bots,docker,elixir,fediverse,firebase,gcp,git,github,githubactions,gitlab,grafana,heroku,instagram,jenkins,kubernetes,linkedin,linux,mastodon,maven,mongodb,mysql,netlify,nginx,postgres,powershell,prometheus,raspberrypi,redis,sqlite,stackoverflow,supabase,twitter,vercel,wordpress,workers&theme=dark)
 
 </details>
-
----
-
-![YoungChief's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngchief-btw&count_private=true&show_icons=true&theme=tokyonight)
-
-![YoungChief's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngchief-btw&langs_count=10&count_private=true&show_icons=true&theme=tokyonight&layout=compact)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
