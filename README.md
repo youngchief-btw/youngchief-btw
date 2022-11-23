@@ -14,9 +14,9 @@ My website: https://ycws.vercel.app
 <details>
 <summary>GitHub Stats</summary>
 
-![YoungChief's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngchief-btw&count_private=true&show_icons=true&theme=tokyonight)
+![YoungChief's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngchief-btw&count_private=true&show_icons=true&theme=transparent)
 
-![YoungChief's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngchief-btw&langs_count=10&count_private=true&show_icons=true&theme=tokyonight&layout=compact)
+![YoungChief's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngchief-btw&langs_count=10&count_private=true&show_icons=true&theme=transparent&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
