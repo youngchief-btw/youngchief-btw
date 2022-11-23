@@ -13,3 +13,4 @@ jobs:
         with:
           feed-url: 'https://youngchief.tk/blog.rss'
           readme-section: blog
+          empty-commits: false
