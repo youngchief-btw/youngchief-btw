@@ -1,4 +1,4 @@
-name: Update blog posts section.
+name: Blog
 
 on:
   schedule:
