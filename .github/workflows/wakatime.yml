@@ -3,7 +3,7 @@ name: Wakatime
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '0 8 * * *' # runs at every 12AM UTC
+    - cron: '0 8 * * *' # runs at every 8AM UTC
 
 jobs:
   update-readme:
@@ -13,3 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSGAE: 'Updated wakatime stats.'
+          TIME_RANGE: all_time
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
