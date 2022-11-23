@@ -2,14 +2,14 @@ name: Blog
 
 on:
   schedule:
-    # Once a day at 8 AM
-    - cron: 0 8 * * *
+  - cron: '0 8 * * *'
 
 jobs:
-  update:
+  blog:
+    name: Blog
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@main
         with:
-          feed-url: https://youngchief.tk/blog.rss
-          readme-section: Blog
+          feed-url: 'https://youngchief.tk/blog.rss'
+          readme-section: blog

@@ -6,7 +6,7 @@ on:
     - cron: '0 8 * * *' # runs at every 8AM UTC
 
 jobs:
-  update-readme:
+  wakatime:
     name: Wakatime
     runs-on: ubuntu-latest
     steps:
