@@ -1,16 +1,18 @@
 name: Blog
 
 on:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
-  - cron: '0 8 * * *'
+    - cron: '0 8 * * *'
 
 jobs:
   blog:
     name: Blog
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in posts.
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed-url: 'https://youngchief.tk/blog.rss'
-          readme-section: blog
-          empty-commits: false
+          feed_list: "https://youngchief.tk/blog.rss"

@@ -6,8 +6,8 @@ My website: https://ycws.vercel.app
 
 ### Blog
 
-<!--START_SECTION:blog-->
-<!--END_SECTION:blog-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
