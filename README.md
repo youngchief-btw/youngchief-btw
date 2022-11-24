@@ -19,6 +19,16 @@ My website: https://ycws.vercel.app
 ![YoungChief's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngchief-btw&langs_count=10&count_private=true&show_icons=true&theme=transparent&layout=compact)
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 1 hr 10 mins
+
+Markdown   1 hr 7 mins     ████████████████████████░   95.36 %
+HTML       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+```
+
 <!--END_SECTION:waka-->
 
 </details>
