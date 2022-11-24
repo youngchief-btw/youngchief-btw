@@ -9,7 +9,7 @@ jobs:
     name: Blog
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@main
+      - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: 'https://youngchief.tk/blog.rss'
           readme-section: blog
