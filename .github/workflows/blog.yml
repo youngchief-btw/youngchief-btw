@@ -10,10 +10,8 @@ jobs:
     name: Blog
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Check
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://youngchief.tk/blog.rss"
           commit_message: 'Updated blog section.'
