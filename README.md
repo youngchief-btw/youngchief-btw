@@ -17,6 +17,10 @@ My website: https://ycws.vercel.app
 ![YoungChief's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngchief-btw&count_private=true&show_icons=true&theme=transparent)
 
 ![YoungChief's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngchief-btw&langs_count=10&count_private=true&show_icons=true&theme=transparent&layout=compact)
+</details>
+
+<details>
+<summary>Wakatime</summary>
 
 <!--START_SECTION:waka-->
 
