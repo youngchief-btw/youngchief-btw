@@ -25,14 +25,14 @@ My website: https://ycws.vercel.app
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 41 hrs 20 mins
+Total Time: 42 hrs 25 mins
 
-HTML         14 hrs 38 mins  █████████░░░░░░░░░░░░░░░░   35.42 %
-JavaScript   9 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-Markdown     6 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-CSS          4 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-YAML         1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-C++          59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+HTML         14 hrs 38 mins  ████████▓░░░░░░░░░░░░░░░░   34.52 %
+JavaScript   9 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
+Markdown     7 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+CSS          4 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+YAML         1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Other        1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
